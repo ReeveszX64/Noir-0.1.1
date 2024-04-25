@@ -1,2 +1,11 @@
 # Noir-0.1.1
 Noir version 0.1.1
+
+JUST A TEST AUTOCLICKER
+
+RIGHT AND LEFT CPS 
+
+DOWNLOAD ZIP -> 
+
+Preview
+
