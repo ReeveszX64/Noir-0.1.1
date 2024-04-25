@@ -5,7 +5,7 @@ JUST A TEST AUTOCLICKER
 
 RIGHT AND LEFT CPS 
 
-DOWNLOAD ZIP -> 
+DOWNLOAD ZIP -> https://github.com/ReeveszX64/Noir-0.1.1/releases/download/Autoclicker/Noir.0.1.1.zip
 
 Preview
 
