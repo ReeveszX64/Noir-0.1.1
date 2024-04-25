@@ -9,3 +9,4 @@ DOWNLOAD ZIP -> https://github.com/ReeveszX64/Noir-0.1.1/releases/download/Autoc
 
 Preview
 
+![alt text](https://raw.githubusercontent.com/ReeveszX64/Noir-0.1.1/main/prev1.png?raw=true)
